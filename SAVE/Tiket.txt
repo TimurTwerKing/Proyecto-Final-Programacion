@@ -1,0 +1,50 @@
+Detalle del Pedido:
+
+Ticket de Compra
+================
+Cliente: Timur Bogach
+Fecha: Sat May 18 22:55:26 CEST 2024
+
+Productos:
+Cerveza - 2.0€
+Cerveza - 2.0€
+
+Total: 4.0€
+================
+
+null
+null
+null
+null
+----- TICKET DE COMPRA -----
+Cliente: Timur Bogach
+Fecha: Sat May 18 23:30:24 CEST 2024
+
+Productos:
+
+**Bebida:** Cerveza (2.0€)
+ - Gaseoso: Sí
+ - Lacteo: No
+ - Medida: 33cl
+ - Fecha de caducidad: 12/07/2024
+
+
+Total: 2.0 €
+----------------------------
+
+----- TICKET DE COMPRA -----
+Cliente: Timur Bogach
+Fecha: Sat May 18 23:31:37 CEST 2024
+
+Productos:
+
+**Bebida:** Zumo de Naranja (2.5€)
+ - Gaseoso: No
+ - Lacteo: Sí
+ - Medida: 200ml
+ - Fecha de caducidad: 30/06/2024
+
+
+Total: 2.5 €
+----------------------------
+

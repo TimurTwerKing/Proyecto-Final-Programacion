@@ -1,0 +1,12 @@
+Johnny,Meentero,2023-11-20,658440125,C/Lamefarolas-8,todas locas
+Maria,Gomez,2023-11-20,609874563,C/Gran Via-12,compradora habitual
+Pedro,Martinez,2023-11-20,687123456,Av. Siempre Viva-742,interesado en ofertas
+Lucia,Fernandez,2023-11-20,634567890,C/Mayor-34,cliente VIP
+Carlos,Lopez,2023-11-20,691234567,C/Sol-15,frecuente en productos frescos
+Laura,Diaz,2023-11-20,622345678,C/Alcala-22,prefiere productos orgánicos
+Javier,Sanchez,2023-11-20,698765432,Av. de la Paz-10,compra productos gourmet
+Ana,Garcia,2023-11-20,655432198,C/Princesa-8,busca descuentos
+Alberto,Rodriguez,2023-11-20,678901234,C/Velazquez-20,interesado en novedades
+Carmen,Martinez,2023-11-20,612345678,C/Montera-5,clienta leal desde hace años
+Luis,Hernandez,2023-11-20,690123456,C/Fuencarral-18,prefiere productos locales
+Timur,Bogach,2024-4-18,658440125,C/Campoamor,Un fiera
